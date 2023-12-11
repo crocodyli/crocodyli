@@ -1,4 +1,4 @@
-# Olá, sou o Crocodyli ! 
+# Olá, sou o Crocodyli :crocodile: ! 
 ## Bem vindo ao meu perfi no GitHub 👋
 
 <!--
