@@ -28,4 +28,7 @@ Para o meu Github, disponibilizei repostórios que podem ajudar no dia-a-dia dos
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=crocodyli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+
+## Vezes que apareço por aqui! 
+
 ![Snake animation](https://github.com/crocodyli/crocodyli/blob/output/github-contribution-grid-snake.svg)
