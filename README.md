@@ -1,19 +1,19 @@
-# Olá, sou o Crocodyli :crocodile: ! 
-## Bem vindo ao meu perfi no GitHub 👋
+# Hello, I am Crocodyli :crocodile: ! 
+## Welcome to my GitHub profile 👋
 
-Atualmente atuo como pesquisador de Inteligência de Ameaças, realizando mapeamento de atores de ameaças e procurando identificar todos os seus tipos de táticas, técnicas e procedimentos utilizados em ataques. 
+Currently, I work as a Threat Intelligence researcher, mapping threat actors and seeking to identify all their tactics, techniques, and procedures used in attacks. 
 
-Além de atuar como pesquisador, sou palestrante e professor, ministrando cursos nas áreas de: 
-- Análise de Malware
-- DFIR (Forense e Resposta a Incidentes)
-- Investigações de ataques de Ransomware
-- Forense Digital e 
-- Inteligência de Ameaças 
+In addition to working as a researcher, I am a speaker and instructor, teaching courses in the following areas: 
+- Malware Analysis
+- DFIR (Digital Forensics and Incident Response)
+- Investigations of Ransomware Attacks
+- Digital Forensics
+- Threat Intelligence.
 
-## Repositórios interessantes
-Para o meu Github, disponibilizei repostórios que podem ajudar no dia-a-dia dos pesquisadores, fornecendo desde ferramentas até mesmo o projeto de Ransomware-TTP, apresentando detalhes em portugues para as pessoas que trabalham com a língua portuguesa. 
+## Interesting Repositories On my GitHub
+I have made available repositories that can assist researchers in their day-to-day work, providing everything from tools to the ThreatActors-TTP project. 
 
-## Contatos: 
+## Contacts: 
 
 <div> 
 <a href="https://www.linkedin.com/in/caiquebarqueta/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -21,7 +21,7 @@ Para o meu Github, disponibilizei repostórios que podem ajudar no dia-a-dia dos
 <a href = "crocodyli@pronton.me"><img loading="lazy" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 </div>
 
-## Estatísticas do GitHub
+## GitHub Stats
 
 <div>
 <a href="https://github.com/crocodyli">
