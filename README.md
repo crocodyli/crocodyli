@@ -16,9 +16,7 @@ I have made available repositories that can assist researchers in their day-to-d
 ## Contacts: 
 
 <div> 
-<a href="https://www.linkedin.com/in/caiquebarqueta/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/crocodylii" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
-<a href = "crocodyli@pronton.me"><img loading="lazy" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 </div>
 
 ## GitHub Stats
