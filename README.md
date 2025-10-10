@@ -1,17 +1,12 @@
-# Hello, I am Crocodyli :crocodile: ! 
-## Welcome to my GitHub profile 👋
+# 🐊 Hello, I’m Crocodyli  
 
-Currently, I work as a Threat Intelligence researcher, mapping threat actors and seeking to identify all their tactics, techniques, and procedures used in attacks. 
+Just a curious mind wandering through the depths of the internet.  
 
-In addition to working as a researcher, I am a speaker and instructor, teaching courses in the following areas: 
-- Malware Analysis
-- DFIR (Digital Forensics and Incident Response)
-- Investigations of Ransomware Attacks
-- Digital Forensics
-- Threat Intelligence.
+I break things to understand how they work — sometimes they talk back.  
 
-## Interesting Repositories On my GitHub
-I have made available repositories that can assist researchers in their day-to-day work, providing everything from tools to the ThreatActors-TTP project. 
+Here you’ll find small experiments, tools, and traces of curiosity.  
+
+Nothing fancy. Just exploration.
 
 ## Contacts: 
 
