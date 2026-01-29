@@ -8,7 +8,7 @@ Here you’ll find small experiments, tools, and traces of curiosity.
 
 Nothing fancy. Just exploration.
 
----
+
 
 ## Contacts
 
